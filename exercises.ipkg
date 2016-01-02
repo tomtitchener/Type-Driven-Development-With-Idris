@@ -1,0 +1,24 @@
+package exercises
+
+modules = Exercises.Exercises_3_2_4
+	, Exercises.Exercises_3_3_3
+	, Exercises.Exercises_4_1_5
+	, Exercises.Exercises_4_2_4
+	, Exercises.Exercises_4_3_5
+	, Exercises.Exercises_5_3_5
+
+tests = Exercises_3_2_4.test_zero_len
+      , Exercises_3_2_4.test_non_zero_len
+      , Exercises_3_2_4.test_reverse
+      , Exercises_3_2_4.test_mapL
+      , Exercises_3_2_4.test_mapV
+      , Exercises_3_3_3.test_double_mat
+      , Exercises_3_3_3.test_mult_mat
+      , Exercises_4_1_5.test_tree_list
+      , Exercises_4_1_5.test_expr_eval
+      , Exercises_4_2_4.test_take_vect
+      , Exercises_4_2_4.test_sum_entries_ok
+      , Exercises_4_2_4.test_sum_entries_fail
+      , Exercises_4_3_5.test_ds_size
+      , Exercises_4_3_5.test_ds_add_one
+      , Exercises_4_3_5.test_ds_search
